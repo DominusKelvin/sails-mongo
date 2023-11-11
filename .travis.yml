@@ -29,6 +29,8 @@ env:
     - MONGODB=3.6.18
     - MONGODB=4.0.18
     - MONGODB=4.2.7
+    - MONGODB=5.0
+    - MONGODB=6.0
 
 cache:
   directories:
